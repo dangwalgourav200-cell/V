@@ -1,0 +1,23 @@
+body
+{
+    background-color: black;
+        display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+h2
+{
+    color: rgb(255, 148, 8);
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3
+{
+    color: rgb(231, 140, 20);
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
